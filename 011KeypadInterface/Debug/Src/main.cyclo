@@ -1,0 +1,13 @@
+../Src/main.c:42:5:main	1
+../Src/main.c:77:6:init	1
+../Src/main.c:102:6:delay	2
+../Src/main.c:107:6:smalldelay	2
+../Src/main.c:113:6:makeAllRowHigh	1
+../Src/main.c:122:6:makeRow1Low	1
+../Src/main.c:131:6:row1LowReadColomns	5
+../Src/main.c:160:6:makeRow2Low	1
+../Src/main.c:169:6:row2LowReadColomns	5
+../Src/main.c:198:6:makeRow3Low	1
+../Src/main.c:207:6:row3LowReadColomns	5
+../Src/main.c:236:6:makeRow4Low	1
+../Src/main.c:245:6:row4LowReadColomns	5
